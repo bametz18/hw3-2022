@@ -59,12 +59,12 @@ div{
     border-width: 2px 5px 0px 0px;
 }
 
-.blue>p{
+.blue p{
     color: #C4C4C4;
 }
 
-.blue>h2{
-    color: #E8E8E8;
+.blue h2{
+    color: #C4C4C4;
 }
 
 .yellow{
@@ -79,14 +79,10 @@ div{
 }
 
 .green{
-    background-color: #00D800;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-width: 2px 5px 0px 0px;
-}
-
-.green>p{
-    color: #2B2B2B;
 }
 
 footer{
